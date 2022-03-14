@@ -1,0 +1,4 @@
+name: Lifesteal
+main: bloody.Plugin
+version: 1.0
+description: A plugin that handles hearts like the lifesteal smp
